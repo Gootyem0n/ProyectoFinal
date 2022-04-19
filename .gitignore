@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/ProyectoFinal/packages/bootstrap.3.3.7/content/Scripts
+/.vs
+/ProyectoFinal/.vs
